@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TMP_TCPClient">
+      <HintPath>..\..\..\C#TCP开发模板\TMP_TCPClient\TMP_TCPClient\bin\Debug\net10.0\TMP_TCPClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

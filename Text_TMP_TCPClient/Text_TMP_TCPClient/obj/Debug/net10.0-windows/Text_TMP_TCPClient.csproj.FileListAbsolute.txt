@@ -1,0 +1,40 @@
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.exe
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.deps.json
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.runtimeconfig.json
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.dll
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.pdb
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\TMP_TCPClient.dll
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\TMP_TCPClient.pdb
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.AssemblyReference.cache
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.Form1.resources
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.GenerateResource.cache
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.AssemblyInfoInputs.cache
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.AssemblyInfo.cs
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.CoreCompileInputs.cache
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP.F3C70FC3.Up2Date
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.dll
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\refint\Text_TMP_TCPClient.dll
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.pdb
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.genruntimeconfig.cache
+L:\c# project\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\ref\Text_TMP_TCPClient.dll
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.exe
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.deps.json
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.runtimeconfig.json
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.dll
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\Text_TMP_TCPClient.pdb
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\TMP_TCPClient.dll
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\bin\Debug\net10.0-windows\TMP_TCPClient.pdb
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.AssemblyReference.cache
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.Form1.resources
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.GenerateResource.cache
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.AssemblyInfoInputs.cache
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.AssemblyInfo.cs
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.csproj.CoreCompileInputs.cache
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP.F3C70FC3.Up2Date
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.dll
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\refint\Text_TMP_TCPClient.dll
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.pdb
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\Text_TMP_TCPClient.genruntimeconfig.cache
+L:\c# project\C#测试模板(串口 TCP)\Text_TMP_TCPClient\Text_TMP_TCPClient\obj\Debug\net10.0-windows\ref\Text_TMP_TCPClient.dll
